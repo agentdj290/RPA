@@ -13,30 +13,6 @@
 ✅ 实时日志反馈：执行过程全程可视
 ✅ 跨命令重试机制：失败自动重试，提升稳定性
 
-📦 安装依赖
-环境要求
-Windows 10/11（因使用窗口激活功能）
-Python 3.8 或更高版本
-
-安装步骤
-# 克隆项目（或下载 ZIP 解压）
-git clone https://github.com/yourname/rpa-command-editor.git
-cd rpa-command-editor
-
-# 创建虚拟环境（推荐）
-python -m venv venv
-venv\Scripts\activate  # Windows
-
-# 安装依赖
-pip install -r requirements.txt
-
-requirements.txt 内容：
-
-PySide6>=6.4.0
-pyautogui>=0.9.53
-openpyxl>=3.0.10
-pillow>=9.0.0
-
 ▶ 快速开始
 启动编辑器
 python main.py
@@ -84,9 +60,9 @@ rpa-command-editor/
 权限问题：部分系统需以管理员身份运行才能操作某些窗口
 
 
-🙌 致谢
+🙌 最后
 PySide6 - 跨平台 GUI 框架
 PyAutoGUI - 自动化控制库
 openpyxl - Excel 读写支持
 Made with ❤️ for automation enthusiasts.
-让重复工作，交给机器人！
+重复工作，交给机器人！
