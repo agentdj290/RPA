@@ -53,6 +53,8 @@ rpa-command-editor/
 ├── README.md             # 本文件
 └── images/               # （用户自建）存放截图素材
 
+下载地址:https://github.com/agentdj290/RPA/releases/tag/RPA
+
 ⚠️ 注意事项
 仅支持 Windows：因 ACTIVATE_WINDOW 使用 pygetwindow（Windows only）
 图片识别依赖屏幕分辨率：录制与执行需在相同 DPI 下进行
@@ -66,3 +68,4 @@ PyAutoGUI - 自动化控制库
 openpyxl - Excel 读写支持
 Made with ❤️ for automation enthusiasts.
 重复工作，交给机器人！
+如果你有类似需求，欢迎提 issue，我会评估是否做成下一个案例。
